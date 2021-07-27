@@ -1,0 +1,3 @@
+# Include Sphinx assets directory
+include:
+  - python/_static/
