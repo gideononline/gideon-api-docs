@@ -21,8 +21,9 @@
 title: GIDEON Dev Center
 email: info@gideononline.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The GIDEON Dev Center provides a collection of tutorials on how to use the
-  GIDEON API and associated libraries in your research
+  The GIDEON Dev Center provides a collection of tutorials to assist
+  infectious disease researchers utilize the data provided through the
+  GIDEON API and associated libraries in their research.
 domain: gideononline.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://gideononline.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /gideon-api-docs/      # place folder name if the site is served in a subfolder
