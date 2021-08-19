@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The *GIDEON Dev Center* provides a collection of tutorials to assist infectious disease researchers utilize the data provided through the GIDEON API and associated libraries in their research.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+There are multiple ways to access the GIDEON API:
+- [RESTful API](https://api-doc.gideononline.com/)
+- [GIDEON API for R](https://github.com/gideononline/gideon-api-r)
+- [GIDEON API for Python](https://github.com/gideononline/gideon-api-python)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The source code for the *GIDEON Dev Center* is hosted on GitHub at [gideononline/gideon-api-docs](https://github.com/gideononline/gideon-api-docs)
