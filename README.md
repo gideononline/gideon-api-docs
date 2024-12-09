@@ -1,6 +1,8 @@
 # GIDEON Dev Center
 The *GIDEON Dev Center* provides a collection of tutorials to assist infectious disease researchers utilize the data provided through the GIDEON API and associated libraries in their research.
 
+See [api-docs.gideononline.com](https://api-doc.gideononline.com/) for API documentation.
+
 ## Local Setup
 The website is built using [Jekyll](https://jekyllrb.com/) for Ruby.
 Jekyll renders the collection of Markdown files on GitHub Pages and can be installed locally for testing.
